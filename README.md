@@ -22,7 +22,8 @@ I have included all the steps needed to understand the entire process involved <
 The Jupyter Notebook contains all the details and reason behind every block of code. <br>
 Check it out for better understanding.
 <br>
-```NOTE:``` The ```belucoin_database.db``` is just provided for reference purposes. <br>
+<br>
+<b>NOTE:</b> The <b>belucoin_database.db</b> is just provided for reference purposes. <br>
 Just downloading the python notebook along with the jpg image will work just fine. <br>
 Apon execution the code will create a database file by itself and place it in the current directory. <br>
 So don't download the database file from the repository.
