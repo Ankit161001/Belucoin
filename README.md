@@ -1,6 +1,7 @@
 # Belucoin
 Welcome to Belucoin. This is a complete cryptocurrency simulator.
 <br>
+<br>
 <img src = "https://user-images.githubusercontent.com/61089784/154091244-c3539e5a-19f5-4533-b684-963c4704b0db.jpg" height = "200" width = "200">
 <br>
 <br>
@@ -20,23 +21,5 @@ I have included all the steps needed to understand the entire process involved <
 The Jupyter Notebook contains all the details and reason behind every block of code. <br>
 Check it out for better understanding.
 
-<p style ="text-align:center;"><em>By Ankit Rana</em></p>
-<table>
-    <tr>
-        <td><img src = "https://user-images.githubusercontent.com/61089784/154091244-c3539e5a-19f5-4533-b684-963c4704b0db.jpg" width = "220" height = "220"/></td>
-        <td style ="text-align:left;"><h3>Hello guys! Welcome to Belucoin. This is a complete cryptocurrency simulator.<br><br>
-        I have included all the steps needed to understand the entire process involved <br>
-        in the functioning of a cryptocurrency. <br><br>  
-        The many functionalities included in the following code are :
-        <ul>
-        <li>Blockchain creation and updation 🔗</li> 
-        <li>Mining and mining payment ⛏</li>
-        <li>New user creation 🧑</li>
-        <li>Purchasing Belucoins with actual cash 💸</li>
-        <li>Selling Belucoins for actual cash 💰</li>
-        <li>Maintaining cash balance in database 💳</li>
-        <li>Adding cash to cash balance 💷</li>
-        </ul>
-        </h3></td>
-    </tr>
-</table>
+<p><em>By Ankit Rana</em></p>
+
